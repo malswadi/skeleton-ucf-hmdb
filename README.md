@@ -19,7 +19,7 @@ Skeleton extraction from a UCF-101 sample
 * [Acknowledgements](https://github.com/malswadi/skeleton_ucf_hmdb#acknowledgements)
 
 ## 1. Download UCF-101 skeleton dataset
-## 1. Download HMDB skeleton dataset
+## 2. Download HMDB skeleton dataset
 ## 3. Storage info
 
 ## Citation
