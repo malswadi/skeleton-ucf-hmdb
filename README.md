@@ -20,7 +20,15 @@ Skeleton extraction from a UCF-101 sample
 * [Acknowledgements](https://github.com/malswadi/skeleton_ucf_hmdb#acknowledgements)
 
 ## 1. Download UCF-101 skeleton dataset
+
+The [UCF-101](https://www.crcv.ucf.edu/data/UCF101.php) dataset provides a total of 13,320 clips classified into 101 action classes. The skeleton output layout has been extracting using the [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) system. Due to the variability of the duration of each clip, a fixed duration of 300 frames has been proposed. Therefore, if any video clip has less than 300 frames, we repeat the initial frames until reach the amount needed. Otherwise, if the video clip exceeds the frame number, we trim it. As a consequence, the spatio-temporal information of the skeleton of each video sample can be represented as a tensor with shape (18, 3, 300). An independent JSON file has been exported for each video sample. Thus, the outcome of this process are 13,320 JSON files with the skeleton information of the UCF-101 dataset. respectively. 
+
 ## 2. Download HMDB skeleton dataset
+
+The [HMDB](https://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/) dataset provides a total of 6,766 video clips of 51 different classes. Similar to the UCF-101 skeleton dataset, the skeleton output layout has been extracting using the [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) system using the same fixed  length of 300 frames. Also, an independent JSON file has been exported for each video sample. Therefore, 6,766 JSON files with the skeleton information of the HMDB dataset. 
+
+
+
 ## 3. Storage info
 
 ## Citation
