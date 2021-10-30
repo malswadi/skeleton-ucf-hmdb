@@ -12,12 +12,11 @@ Skeleton extraction from a UCF-101 sample
 </p>
 
 ## Contents
-* [1. Download UCF-101 skeleton dataset](https://github.com/gulvarol/surreal#1-download-surreal-dataset)
-* [2. Download HMDB skeleton dataset](https://github.com/gulvarol/surreal#2-create-your-own-synthetic-data)
-* [3. Storage info](https://github.com/gulvarol/surreal#2-create-your-own-synthetic-data)
-
-* [Citation](https://github.com/gulvarol/surreal#citation)
-* [Acknowledgements](https://github.com/gulvarol/surreal#acknowledgements)
+* [1. Download UCF-101 skeleton dataset](https://github.com/malswadi/skeleton_ucf_hmdb#1-download-ucf-101-skeleton-dataset)
+* [2. Download HMDB skeleton dataset](https://github.com/malswadi/skeleton_ucf_hmdb)
+* [3. Storage info](https://github.com/malswadi/skeleton_ucf_hmdb)
+* [Citation](https://github.com/malswadi/skeleton_ucf_hmdb)
+* [Acknowledgements](https://github.com/malswadi/skeleton_ucf_hmdb)
 
 ## 1. Download UCF-101 skeleton dataset
 ## 1. Download HMDB skeleton dataset
