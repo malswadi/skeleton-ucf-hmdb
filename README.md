@@ -1,6 +1,7 @@
 # Skeleton-based Action Recogntion using Spatial Temporal Graph Convolutional Networks on the UCF-101 and HMDB benchmarks
 
-[Motasem S. Alsawadi](https://www.ucl.ac.uk/iccs/motasem-alsawadi) and [Miguel Rio](https://www.ucl.ac.uk/iccs/prof-miguel-rio)
+
+This is the project repository for the research study *Skeleton-based Action Recogntion using Spatial Temporal Graph Convolutional Networks on the UCF-101 and HMDB benchmarks* presented by [Motasem S. Alsawadi](https://www.ucl.ac.uk/iccs/motasem-alsawadi) and [Miguel Rio](https://www.ucl.ac.uk/iccs/prof-miguel-rio).
 
 [[arXiv]](https://arxiv.org/abs/2108.01309)
 
@@ -23,7 +24,7 @@ Skeleton extraction from a UCF-101 sample
 ## 3. Storage info
 
 ## Citation
-If you use this code, please cite the following:
+If you are interseted to use this code for your research, please cite:
 
 ```
 @article{Alsawadi2021,
@@ -35,4 +36,4 @@ year = {2021}
 ```
 
 ## Acknowledgements
-The training code is written by [Motasem S. Alsawadi](https://www.ucl.ac.uk/iccs/motasem-alsawadi) and it is based upon the skeleton extraction guidelines provided by Sijie Yan, Yuanjun Xiong and Dahua Lin in *Spatial Temporal Graph Convolutional Networks for Skeleton-Based Action Recognition*, Sijie Yan, Yuanjun Xiong and Dahua Lin, AAAI 2018. [[Arxiv Preprint]](https://arxiv.org/abs/1801.07455)
+The training code is written by [Motasem S. Alsawadi](https://www.ucl.ac.uk/iccs/motasem-alsawadi) and it is based upon the skeleton extraction guidelines provided  in *Spatial Temporal Graph Convolutional Networks for Skeleton-Based Action Recognition*, Sijie Yan, Yuanjun Xiong and Dahua Lin, AAAI 2018. [[Arxiv Preprint]](https://arxiv.org/abs/1801.07455)
