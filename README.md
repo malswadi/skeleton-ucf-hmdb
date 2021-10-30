@@ -25,7 +25,7 @@ The [UCF-101](https://www.crcv.ucf.edu/data/UCF101.php) dataset provides a total
 
 ## 2. Download HMDB skeleton dataset
 
-The [HMDB](https://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/) dataset provides a total of 6,766 video clips of 51 different classes. Similar to the UCF-101 skeleton dataset, the skeleton output layout has been extracted using the [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) system using the same fixed  length of 300 frames. Also, an independent JSON file has been exported for each video sample. Therefore, 6,766 JSON files with the skeleton information of the HMDB dataset. The HMDB skeleton dataset can be downloaded [here](https://drive.google.com/file/d/1no8xPvNnthycI0zcRcn0tZO-agairoC7/view).
+The [HMDB](https://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/) dataset provides a total of 6,766 video clips of 51 different classes. Similar to the [UCF-101 skeleton dataset](https://github.com/malswadi/skeleton_ucf_hmdb#1-download-ucf-101-skeleton-dataset), the skeleton output layout has been extracted using the [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) system using the same fixed  length of 300 frames. Also, an independent JSON file has been exported for each video sample. Therefore, 6,766 JSON files with the skeleton information of the HMDB dataset. The HMDB skeleton dataset can be downloaded [here](https://drive.google.com/file/d/1no8xPvNnthycI0zcRcn0tZO-agairoC7/view).
 
 
 
