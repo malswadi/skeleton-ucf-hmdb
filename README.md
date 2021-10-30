@@ -13,10 +13,10 @@ Skeleton extraction from a UCF-101 sample
 
 ## Contents
 * [1. Download UCF-101 skeleton dataset](https://github.com/malswadi/skeleton_ucf_hmdb#1-download-ucf-101-skeleton-dataset)
-* [2. Download HMDB skeleton dataset](https://github.com/malswadi/skeleton_ucf_hmdb#1-download-hmdb-skeleton-dataset)
-* [3. Storage info](https://github.com/malswadi/skeleton_ucf_hmdb#1-download-ucf-101-skeleton-dataset)
-* [Citation](https://github.com/malswadi/skeleton_ucf_hmdb#1-download-ucf-101-skeleton-dataset)
-* [Acknowledgements](https://github.com/malswadi/skeleton_ucf_hmdb#1-download-ucf-101-skeleton-dataset)
+* [2. Download HMDB skeleton dataset](https://github.com/malswadi/skeleton_ucf_hmdb#2-download-hmdb-skeleton-dataset)
+* [3. Storage info](https://github.com/malswadi/skeleton_ucf_hmdb#3-storage-info)
+* [Citation](https://github.com/malswadi/skeleton_ucf_hmdb#citation)
+* [Acknowledgements](https://github.com/malswadi/skeleton_ucf_hmdb#acknowledgements)
 
 ## 1. Download UCF-101 skeleton dataset
 ## 1. Download HMDB skeleton dataset
@@ -35,6 +35,4 @@ year = {2021}
 ```
 
 ## Acknowledgements
-The data generation code is built by [Motasem S. Alsawadi](https://www.ucl.ac.uk/iccs/motasem-alsawadi) and [Miguel Rio](https://www.ucl.ac.uk/iccs/prof-miguel-rio).
-
 The training code is written by [Motasem S. Alsawadi](https://www.ucl.ac.uk/iccs/motasem-alsawadi) and it is based upon the skeleton extraction guidelines provided by Sijie Yan, Yuanjun Xiong and Dahua Lin in *Spatial Temporal Graph Convolutional Networks for Skeleton-Based Action Recognition*, Sijie Yan, Yuanjun Xiong and Dahua Lin, AAAI 2018. [[Arxiv Preprint]](https://arxiv.org/abs/1801.07455)
