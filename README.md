@@ -36,7 +36,7 @@ The compressed file size of the HMDB-51 skeleton dataset is 581 MB. On the uncom
 On the other hand, the UCF-101 skeleton dataset compressed format size is 991 MB. On the uncompressed format, this dataset has a size of 2.56 GB of storage.  
 
 ## Citation
-If you are interseted to use this code for your research, please cite:
+Please cite the following paper if you use this repository in your reseach:
 
 ```
 @article{Alsawadi2021,
