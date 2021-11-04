@@ -27,13 +27,13 @@ The [UCF-101](https://www.crcv.ucf.edu/data/UCF101.php) dataset provides a total
 The [HMDB-51](https://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/) dataset provides a total of 6,766 video clips of 51 different classes. Similar to the [UCF-101 skeleton dataset](https://github.com/malswadi/skeleton_ucf_hmdb#1-download-ucf-101-skeleton-dataset), the skeleton output layout has been extracted using the [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) system using the same fixed  length of 300 frames. Also, an independent JSON file has been exported for each video sample. Therefore, 6,766 JSON files with the skeleton information of the HMDB-51 dataset. The HMDB-51 skeleton dataset can be downloaded [here](https://drive.google.com/file/d/102OJhQNZ4CxLou0FYPFR9ZlxFXRUd5Kb/view).
 
 ## 3. Storage info
-The HMDB-51 and the UCF-101 skeleton dataset are provided as .zip format. 
+The UCF-101 and HMDB-51 skeleton dataset are provided as .zip format. 
+
+#### UCF-101
+On the other hand, the UCF-101 skeleton dataset compressed format size is 991 MB. On the uncompressed format, this dataset has a size of 2.56 GB of storage.
 
 #### HMDB-51
 The compressed file size of the HMDB-51 skeleton dataset is 581 MB. On the uncompressed format, this dataset has a size of 1.62 GB of storage.
-
-#### UCF-101
-On the other hand, the UCF-101 skeleton dataset compressed format size is 991 MB. On the uncompressed format, this dataset has a size of 2.56 GB of storage.  
 
 ## Citation
 Please cite the following paper if you use this repository in your reseach:
