@@ -39,13 +39,11 @@ The compressed file size of the HMDB-51 skeleton dataset is 581 MB. On the uncom
 Please cite the following paper if you use this repository in your reseach:
 
 ```
-@misc{alsawadi2021skeletonsplit,
-      title={Skeleton-Split Framework using Spatial Temporal Graph Convolutional Networks for Action Recogntion}, 
-      author={Motasem Alsawadi and Miguel Rio},
-      year={2021},
-      eprint={2111.03106},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@article{alsawadi2021skeleton,
+  title={Skeleton-Split Framework using Spatial Temporal Graph Convolutional Networks for Action Recogntion},
+  author={Alsawadi, Motasem and Rio, Miguel},
+  journal={arXiv preprint arXiv:2111.03106},
+  year={2021}
 }
 ```
 
