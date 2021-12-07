@@ -1,6 +1,6 @@
-# Skeleton-Split Framework using Spatial Temporal Graph Convolutional Networks for Action Recognition
+# Skeleton-Split Framework using Spatial Temporal Graph Convolutional Networks for Action Recogntion
 
-This is the project repository for the research study *Skeleton-Split Framework using Spatial Temporal Graph Convolutional Networks for Action Recognition* presented by Motasem S. Alsawadi and Miguel Rio.
+This is the project repository for the research study *Skeleton-Split Framework using Spatial Temporal Graph Convolutional Networks for Action Recogntion* presented by Motasem S. Alsawadi and Miguel Rio.
 
 [[arXiv]](https://arxiv.org/abs/2111.03106)
 
