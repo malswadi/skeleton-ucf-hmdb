@@ -2,7 +2,7 @@
 
 This is the project repository for the research study *Skeleton-Split Framework using Spatial Temporal Graph Convolutional Networks for Action Recognition* presented by Motasem S. Alsawadi and Miguel Rio.
 
-[[arXiv]](https://arxiv.org/abs/2108.01309)
+[[arXiv]](https://arxiv.org/abs/2111.03106)
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/52717252/139516602-798e6cff-2c29-4719-ba2f-44dbfc5ebd1a.gif"
